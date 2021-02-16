@@ -1,0 +1,9 @@
+id, price, color, make, sold
+1, 10000, red, honda, 2014-10-28
+2, 20000, red, honda, 2014-11-05
+3, 30000, green, ford, 2014-05-18
+4, 15000, blue, toyota, 2014-07-02
+5, 12000, green, toyota, 2014-08-19
+6, 20000, red, honda, 2014-11-05
+7, 80000, red, bmw, 2014-01-01
+8, 25000, blue, ford, 2014-02-12
